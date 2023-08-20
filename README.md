@@ -13,3 +13,13 @@ it is a test hello-world repo.
 
 
 
+```javascript
+
+function fn(x) {
+    console.log(x);
+    return x + 5;
+}
+```
+
+
+
